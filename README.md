@@ -2,7 +2,7 @@
 
 Projeto para criar "audiogramas". Em outras palavras, videoclipes de episódios de podcast ou qualquer outro áudio. É uma forma popular de compartilhar trechos de áudio nas redes sociais.
 
-![radial-record](https://github.com/patrickgdl/audiovista/assets/22237558/4005fa6f-c267-4d21-9c81-2f2cdb05cfd6)
+![radial-record](https://github.com/patrickgdl/audiovista/assets/22237558/effb4ac0-2bad-469e-a153-32271ce878c8)
 
 Comece a mudar as coisas assim:
 
