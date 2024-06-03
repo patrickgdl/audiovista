@@ -6,19 +6,8 @@ Projeto para criar "audiogramas". Em outras palavras, videoclipes de episódios 
 
 Comece a mudar as coisas assim:
 
-- Ajuste o tamanho e comprimento em `src/Video.tsx`
 - Substituindo áudio, capa e legendas na pasta `public`
-- Ajuste o que quiser em `src/Root.tsx`
-
-## Como faço para renderizar meu vídeo?
-
-Rode isto:
-
-```console
-npm run build
-```
-
-Ou confira os [documentos de remoção](/docs/render/). Existem muitas maneiras de renderizar.
+- Ajuste o que quiser em `remotion/root.tsx`
 
 ## Onde obter uma transcrição (arquivo SRT)?
 
